@@ -270,5 +270,6 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developed with ❤️ using Python & Machine Learning.
+Abhinav Dixit
 
+Python Developer | Data & ML Enthusiast
