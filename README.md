@@ -112,7 +112,7 @@ Example :-
 - Repeated `/login` requests
 
 
-## #High Traffic Detection
+### High Traffic Detection
 
 Identifies suspicious IPs generating unusually high request volumes.
 
