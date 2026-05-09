@@ -194,7 +194,7 @@ REALTIME_REFRESH_SECONDS = 5
 ```
 
 
-# Example Output
+## Example Output
 
 ```bash
 =================================================
@@ -219,7 +219,7 @@ ANALYSIS COMPLETE
 
 ---
 
-# Use Cases
+## Use Cases
 
 - Security Monitoring
 - SIEM Projects
