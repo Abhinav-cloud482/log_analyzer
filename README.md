@@ -217,7 +217,15 @@ PDF REPORT GENERATED
 ANALYSIS COMPLETE
 ```
 
----
+## Screenshots
+
+<img width="1366" height="705" alt="1" src="https://github.com/user-attachments/assets/3cb46cba-82ab-4bfc-9f8a-dc68359fcdda" />
+
+<img width="1366" height="587" alt="2" src="https://github.com/user-attachments/assets/517c32ac-752f-4e9c-8cbe-169c33e026df" />
+
+<img width="1366" height="701" alt="3" src="https://github.com/user-attachments/assets/aebd2c08-f5ff-4543-b6e1-64215a435c36" />
+
+<img width="1362" height="684" alt="4" src="https://github.com/user-attachments/assets/38ff7eb0-1d28-46a0-bad0-463ad3d17f86" />
 
 ## Use Cases
 
