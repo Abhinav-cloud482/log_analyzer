@@ -1,20 +1,3 @@
-# =========================================================
-# ADVANCED AI LOG ANALYZER
-# =========================================================
-# FEATURES
-# ---------------------------------------------------------
-# ✔ Machine Learning Anomaly Detection
-# ✔ Real-Time Monitoring
-# ✔ PDF Report Generation
-# ✔ CSV Database Storage
-# ✔ Email Alerts
-# ✔ Charts & Visualizations
-# ✔ Brute Force Detection
-# ✔ High Traffic Detection
-# ✔ Error Detection
-# ✔ Fully Executable
-# =========================================================
-
 import re
 import os
 import time
